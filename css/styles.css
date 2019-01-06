@@ -71,12 +71,13 @@ html {
   color: white;
 }
 
-/*.header--title {
+.header--title {
   font-size: 7.5rem;
   letter-spacing: .4rem;
   text-shadow: 1px 1px #999;
 }
-.header--tagline {
+
+/*.header--tagline {
   font-size: 3rem;
   font-weight: 300;
 }
