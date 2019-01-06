@@ -150,12 +150,12 @@ section {
   border: 2px solid white;
 }
 
-/*.btn-dark:hover {
+.btn-dark:hover {
   background: #00d4ff;
   border: 2px solid #00d4ff;
 }
 
-.btn-black {
+/*.btn-black {
   background-color: black;
   border: 2px solid black;
 }
