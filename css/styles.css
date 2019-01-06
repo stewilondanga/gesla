@@ -140,12 +140,12 @@ section {
   background: linear-gradient(to right bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
 }
 
-/*.btn-group--btn:hover {
+.btn-group--btn:hover {
   background: white;
   text-decoration: none;
 }
 
-.btn-dark {
+/*.btn-dark {
   background: linear-gradient(90deg, #020024 0%, #090979 64%, #00d4ff 100%);
   border: 2px solid white;
 }
