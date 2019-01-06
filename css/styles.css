@@ -56,10 +56,11 @@ html {
   list-style: none;
 }
 
-/*.navbar__models--link, .navbar__customer-nav--link {
+.navbar__models--link, .navbar__customer-nav--link {
   padding-left: 2rem;
 }
-.navbar--hamburger {
+
+/*.navbar--hamburger {
   display: none;
 }
 
