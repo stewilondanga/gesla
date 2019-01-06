@@ -211,7 +211,7 @@ section {
 }
 
 /*----- MEDIA QUERIES -------*/
-/*@media (max-width: 767.98px) {
+@media (max-width: 767.98px) {
   .navbar--hamburger {
     display: inline-block;
   }
@@ -223,9 +223,11 @@ section {
   .header {
     padding-top: 0;
   }
+
   .header--title {
     font-size: 5.5rem;
   }
+
   .header--tagline {
     font-size: 2rem;
   }
@@ -235,13 +237,14 @@ section {
     flex-direction: column;
     padding: 0 5rem;
   }
+
   .btn-group--btn {
     margin-bottom: 2rem;
     padding: 1rem 2rem;
   }
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
