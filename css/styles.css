@@ -60,11 +60,11 @@ html {
   padding-left: 2rem;
 }
 
-/*.navbar--hamburger {
+.navbar--hamburger {
   display: none;
 }
 
-.header {
+/*.header {
   display: flex;
   flex-direction: column;
   height: 100vh;
