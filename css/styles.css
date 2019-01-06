@@ -106,12 +106,12 @@ section {
   padding-top: 3.5rem;
 }
 
-/*.section--tagline {
+.section--tagline {
   font-size: 2rem;
   font-weight: 300;
 }
 
-#modelB {
+/*#modelB {
   background: url(https://images.pexels.com/photos/707046/pexels-photo-707046.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) 20% 60% no-repeat;
 }
 
