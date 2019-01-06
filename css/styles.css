@@ -93,12 +93,13 @@ section {
   height: 100vh;
 }
 
-/*.section {
+.section {
   text-align: center;
   color: black;
   padding-bottom: 2.5rem;
 }
-.section--title {
+
+/*.section--title {
   font-size: 5.5rem;
   letter-spacing: .4rem;
   text-shadow: 1px 1px #999;
