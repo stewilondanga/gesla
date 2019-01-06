@@ -77,11 +77,12 @@ html {
   text-shadow: 1px 1px #999;
 }
 
-/*.header--tagline {
+.header--tagline {
   font-size: 3rem;
   font-weight: 300;
 }
-.header--more-arrow {
+
+/*.header--more-arrow {
   margin-top: 3rem;
   font-size: 5rem;
   -webkit-animation: bounceDown 1s linear 1s infinite normal both;
