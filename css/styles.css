@@ -129,7 +129,7 @@ section {
   margin-top: 1.5rem;
 }
 
-/*.btn-group--btn {
+.btn-group--btn {
   color: white;
   font-size: 1.5rem;
   border: 2px solid white;
@@ -139,7 +139,8 @@ section {
   transition: all 1s linear ease-in-out;
   background: linear-gradient(to right bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
 }
-.btn-group--btn:hover {
+
+/*.btn-group--btn:hover {
   background: white;
   text-decoration: none;
 }
