@@ -5,6 +5,10 @@ body {
   font-family: Raleway;
 }
 
+html {
+  font-size: 62.5%;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -27,12 +31,6 @@ body {
 
 .my_social a img {
   height: 1.5em;
-}
-
-
-
-html {
-  font-size: 62.5%;
 }
 
 .wrapper {
