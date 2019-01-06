@@ -64,13 +64,14 @@ html {
   display: none;
 }
 
-/*.header {
+.header {
   display: flex;
   flex-direction: column;
   height: 100vh;
   color: white;
 }
-.header--title {
+
+/*.header--title {
   font-size: 7.5rem;
   letter-spacing: .4rem;
   text-shadow: 1px 1px #999;
