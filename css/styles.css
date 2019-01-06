@@ -82,14 +82,14 @@ html {
   font-weight: 300;
 }
 
-/*.header--more-arrow {
+.header--more-arrow {
   margin-top: 3rem;
   font-size: 5rem;
   -webkit-animation: bounceDown 1s linear 1s infinite normal both;
   animation: bounceDown 1s linear 1s infinite normal both;
 }
 
-section {
+/*section {
   height: 100vh;
 }
 
