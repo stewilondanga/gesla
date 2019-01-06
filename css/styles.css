@@ -166,11 +166,12 @@ section {
   color: black;
 }
 
-/*.btn-outline-dark {
+.btn-outline-dark {
   border: 2px solid white;
   color: white;
 }
-.btn-outline-dark:hover {
+
+/*.btn-outline-dark:hover {
   color: black;
 }
 
