@@ -99,13 +99,14 @@ section {
   padding-bottom: 2.5rem;
 }
 
-/*.section--title {
+.section--title {
   font-size: 5.5rem;
   letter-spacing: .4rem;
   text-shadow: 1px 1px #999;
   padding-top: 3.5rem;
 }
-.section--tagline {
+
+/*.section--tagline {
   font-size: 2rem;
   font-weight: 300;
 }
